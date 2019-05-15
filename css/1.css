@@ -1,0 +1,35 @@
+body{
+	background-image: url(../img/04.jpg);
+	background-size: 100%;
+	
+	
+}
+div{
+	position: relative;
+	top: 500px;
+	
+}
+#d3{
+	width:300px;
+	height:160px;
+	border-radius: 15%;
+	background-image: url(../img/按钮1.jpg);
+	text-align:center;
+	font-size: 50px;
+	position: relative;
+	left: 370px;
+	top: 100px;
+	}
+	
+	#d4{
+	font-family : 宋体;
+
+   font-size : 50px;
+   text-align: center;
+
+      color : #FFFFF0;
+      align-content: center;
+
+
+}
+inpu

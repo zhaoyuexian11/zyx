@@ -1,0 +1,28 @@
+body{
+	background-image: url(../img/09.jpg);
+}
+div{
+	position: relative;
+	top: 500px;
+	
+}
+input{
+	margin-left: 100px;
+	width:400px;
+	height:120px;
+	border-radius: 15%;
+	background-image: url(../img/按钮1.jpg);
+	text-align:center;
+	font-size: 40px;
+	position: relative;
+	
+	top: 100px;
+	}
+#d1{
+	font-family : 宋体;
+
+   font-size : 50px;
+text-align: center;
+      color : #FFFFF0;
+      align-content: center;
+}
